@@ -66,7 +66,7 @@ Posicione aqui um link para o Manual de Instruções. (Link do Template: https:/
 * 0.1.0 - 04/11/2023
     * Creation of the folder "Analise Taxa Selic" with its respective analyses.
 
-## 📋 Licença/License
+## 📋 License
 
 Copyright 2023 <a href="https://www.linkedin.com/in/gabriel-demacedosantos/">Gabriel de Macedo Santos</a>
 
