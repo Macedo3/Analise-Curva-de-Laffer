@@ -66,6 +66,19 @@ Posicione aqui um link para o Manual de Instruções. (Link do Template: https:/
 * 0.1.0 - 04/11/2023
     * Creation of the folder "Analise Taxa Selic" with its respective analyses.
 
+
+## 📜 References
+
+REIS, T. Curva de Laffer: como altos impostos diminuem a arrecadação do governo. Disponível em: <https://www.suno.com.br/artigos/curva-de-laffer/>. Acesso em: 7 nov. 2023.
+
+Banco Central do Brasil. Disponível em: <https://www.bcb.gov.br/estatisticas>. Acesso em: 7 nov. 2023.
+
+SANTOS, J. Laffer: a curva que Lula insiste em não ver ao defender mais impostos. Disponível em: <https://www.gazetadopovo.com.br/opiniao/artigos/laffer-curva-lula-nao-viu-impostos-economia/>. Acesso em: 7 nov. 2023.
+
+Dívida pública pode alcançar até R$ 6,8 trilhões em 2023. Disponível em: <https://agenciabrasil.ebc.com.br/economia/noticia/2023-01/divida-publica-pode-alcancar-ate-r-68-trilhoes-em-2023>. Acesso em: 7 nov. 2023.
+
+GRUPO BLB. Curva de Laffer: reflexão sobre reforma tributária e desenvolvimento. Disponível em: <https://blbauditoreseconsultores.com.br/blog/curva-de-laffer-reforma-tributaria/>. Acesso em: 7 nov. 2023.
+
 ## 📋 License
 
 Copyright 2023 <a href="https://www.linkedin.com/in/gabriel-demacedosantos/">Gabriel de Macedo Santos</a>
